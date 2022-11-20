@@ -6,16 +6,17 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>solutionServlet</servlet-name>
-    <url-pattern>/solution</url-pattern>
+    <url-pattern>/chooseAction</url-pattern>
   </servlet-mapping>
+ 
   <servlet>
     <description></description>
-    <display-name>DemoServletResult</display-name>
-    <servlet-name>DemoServletResult</servlet-name>
-    <servlet-class>example.demo.DemoServletResult</servlet-class>
+    <display-name>newSearchServlet</display-name>
+    <servlet-name>newSearchServlet</servlet-name>
+    <servlet-class>example.demo.NewSearchServlet</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>DemoServletResult</servlet-name>
-    <url-pattern>/DemoServletResult</url-pattern>
+    <servlet-name>newSearchServlet</servlet-name>
+    <url-pattern>/solution</url-pattern>
   </servlet-mapping>
 </web-app>

@@ -1,7 +1,4 @@
 The word: KATE can be found 2 times in the text: KATERINAMYNAMEISKATE
+The word: HEY can be found 1 times in the text: THEQUICKBROWNFOXJUMPEDOVERTHELAZYDOG
+The word: GO can be found 0 times in the text: MYBALLOONXXLABOKNL
 The word: BALLOON can be found 2 times in the text: MYBALLOONXXLABOOKNL
-The word: KATE can be found 2 times in the text: KATERINAMYNAMEISKATE
-The word: HEY can be found 2 times in the text: HEYHOWAREYOU
-The word: FOX can be found 1 times in the text: THEQUICKBROWNFOXJUMPEDOVERTHELAZYDOG
-The word: hey can be found 0 times in the text: THEQUICKBROWNFOXJUMPEDOVERTHELAZYDOG
-The word: hey can be found -1 times in the text: gfdgfd

@@ -6,27 +6,16 @@
 </head>
 <body>
 
-	<div align="justify" style="padding: 10px; margin: 5px; border-bottom: 2px solid red;">
-		<form action="solution" method="get">
-			<label>Do you want to view result for all previous searches?</label>
-			</br></br>
-			<input type="radio" name="radioBtn" value="yes" checked> YES
-			<input type="radio" name="radioBtn" value="no"> NO
-			</br></br>
-			<input type="submit">
+	<div align="justify"
+		style="padding: 10px; margin: 5px; border-bottom: 2px solid red;">
+		<form action="chooseAction" method="get">
+			<label>View result for all previous searches: </label>
+			<input type="radio" name="radioBtn" value="view" checked> Yes
+			</br> </br> <label>Add new search: </label> <input
+				type="radio" name="radioBtn" value="new"> Yes </br> </br> <input
+				type="submit">
 		</form>
 	</div>
-
-	<div align="justify" style="padding: 10px; margin: 5px;">
-		<form action="solution" method="post">
-			<label>Enter word to search: </label>
-			<input type="text" name="wordToLookFor"></br> </br>
-			<label>Enter text to search through (must contain only uppercase letters): </label>
-			<input type="text" name="textToSearch"></br> </br> <input type="submit">
-		</form>
-
-	</div>
-
 
 </body>
 </html>
