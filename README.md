@@ -6,6 +6,6 @@ Demo web application using Java servlets
 - On this page the user can:
 
 	- choose to view previously performed searches using provided radio buttons
-		- perform new search using provided text input fields
+	- perform new search using provided text input fields
 	
 	
